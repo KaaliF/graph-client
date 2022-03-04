@@ -42,6 +42,9 @@
  •	https://graph-pagerank-client.herokuapp.com/
  
  
+ If live application takes some time to load, kindly wait or refresh because it's a free version of heroku and dyno stops when it is not used.
+ 
+ 
  **Link to serverside repo:**
  
  https://github.com/KaaliF/PageRankNode/tree/master
