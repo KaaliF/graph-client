@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-axios.defaults.baseURL = 'https://graph-pagerank.herokuapp.com/api';
+axios.defaults.baseURL = 'http://localhost:8000/api';
 
 
 export default {
